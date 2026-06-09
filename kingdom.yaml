@@ -1,0 +1,8 @@
+name: jivame
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The single embodied living soul of one creature, named as a thing given rather than self-made.
+dependsOn: [youspeak, me, chayimme, zoeme]
